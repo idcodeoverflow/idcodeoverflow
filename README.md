@@ -1,10 +1,13 @@
+# About me
 <p>
 I'm a passionate developer that enjoys to learn new things, I'm good at quickly switching gears and at problem solving. During my early years in the tech industry used to be 100% focus at backend stuff, but I've been performing as a Full-Stack developer for the last 7 years as I realized that a great GUI can be a game changer for the end-user.
 </p>
 
-## What I like to use to build things up? 
+## My GitHub stats
 
-<div>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=idcodeoverflow&count_private=true&show_icons=true&theme=transparent&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+
+## What I like to use to build things up? 
 
 ### Front-End
 <div class="tech-container">
@@ -62,11 +65,6 @@ I'm a passionate developer that enjoys to learn new things, I'm good at quickly 
     <img src="./media/flask.png" width="32px">
     <img src="./media/weblogic.png" width="32px">
 </div>
-</div>
-
-## My GitHub stats
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=idcodeoverflow&count_private=true&show_icons=true&theme=transparent&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get in touch
 <div>

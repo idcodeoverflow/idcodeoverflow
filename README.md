@@ -1,8 +1,16 @@
-# What I like to use to build things up?
+# About me
 
-<div>
+<p>
+I'm a passionate developer that enjoys to learn new things, I'm good at quickly switching gears and at problem solving. During my early years in the tech industry used to be 100% focus at backend stuff, but I've been performing as a Full-Stack developer for the last 7 years as I realized that a great GUI can be a game changer for the end-user.
+</p>
 
-## Front-End
+## My GitHub stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=idcodeoverflow&count_private=true&show_icons=true&theme=transparent&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+
+## What I like to use to build things up?
+
+### Front-End
 
 <div class="tech-container">
     <img src="./media/angular.png" width="32px">
@@ -12,7 +20,7 @@
     <img src="./media/js.png" width="32px">
 </div>
 
-## Back-End
+### Back-End
 
 <div class="tech-container">
     <img src="./media/java.png" width="32px">
@@ -22,7 +30,7 @@
     <img src="./media/ts.png" width="32px">
 </div>
 
-## Data
+### Data
 
 <div class="tech-container">
     <img src="./media/postgres.png" width="32px">
@@ -31,21 +39,21 @@
     <img src="./media/redis.png" width="32px">
 </div>
 
-## CI/CD
+### CI/CD
 
 <div class="tech-container">
     <img src="./media/jenkins.png" width="32px">
     <img src="./media/bamboo.png" width="32px">
 </div>
 
-## Containerization
+### Containerization
 
 <div class="tech-container">
     <img src="./media/docker.png" width="32px">
     <img src="./media/kubernetes.png" width="32px">
 </div>
 
-## Frameworks / Tools
+### Frameworks / Tools
 
 <div class="tech-container">
     <img src="./media/maven.png" width="32px">
@@ -55,9 +63,10 @@
     <img src="./media/jest.svg" width="32px">
     <img src="./media/junit.png" width="32px">
     <img src="./media/rxjs.png" width="32px">
+    <img src="./media/hibernate.png" width="32px">
 </div>
 
-## Web Servers
+### Web Servers
 
 <div class="tech-container">
     <img src="./media/tomcat.png" width="32px">
@@ -65,11 +74,8 @@
     <img src="./media/flask.png" width="32px">
     <img src="./media/weblogic.png" width="32px">
 </div>
-</div>
 
-# My GitHub stats
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=idcodeoverflow&count_private=true&show_icons=true&theme=transparent&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+## Get in touch
 
 <div>
     <a href="https://www.linkedin.com/in/david-israel-garc%C3%ADa-alc%C3%A1zar-4825a554/">

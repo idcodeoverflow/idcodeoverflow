@@ -1,14 +1,20 @@
-# What I like to use to build things up? 
+# What I like to use to build things up?
+
+<div>
 
 ## Front-End
-<img src="./media/angular.png" width="32px">
-<img src="./media/react.png" width="32px">
-<img src="./media/ts.png" width="32px">
-<img src="./media/sass.png" width="32px">
-<img src="./media/js.png" width="32px">
+
+<div class="tech-container">
+    <img src="./media/angular.png" width="32px">
+    <img src="./media/react.png" width="32px">
+    <img src="./media/ts.png" width="32px">
+    <img src="./media/sass.png" width="32px">
+    <img src="./media/js.png" width="32px">
+</div>
 
 ## Back-End
-<div>
+
+<div class="tech-container">
     <img src="./media/java.png" width="32px">
     <img src="./media/node.png" width="32px">
     <img src="./media/python.png" width="32px">
@@ -17,7 +23,8 @@
 </div>
 
 ## Data
-<div>
+
+<div class="tech-container">
     <img src="./media/postgres.png" width="32px">
     <img src="./media/mysql.png" width="32px">
     <img src="./media/mongo.png" width="32px">
@@ -25,34 +32,39 @@
 </div>
 
 ## CI/CD
-<div>
+
+<div class="tech-container">
     <img src="./media/jenkins.png" width="32px">
     <img src="./media/bamboo.png" width="32px">
 </div>
 
 ## Containerization
-<div>
+
+<div class="tech-container">
     <img src="./media/docker.png" width="32px">
     <img src="./media/kubernetes.png" width="32px">
 </div>
 
 ## Frameworks / Tools
-<div>
+
+<div class="tech-container">
     <img src="./media/maven.png" width="32px">
     <img src="./media/spring.png" width="32px">
     <img src="./media/apollo.png" width="32px">
     <img src="./media/graphql.png" width="32px">
-    <img src="./media/jest.png" width="32px">
+    <img src="./media/jest.svg" width="32px">
     <img src="./media/junit.png" width="32px">
     <img src="./media/rxjs.png" width="32px">
 </div>
 
 ## Web Servers
-<div>
+
+<div class="tech-container">
     <img src="./media/tomcat.png" width="32px">
     <img src="./media/node.png" width="32px">
     <img src="./media/flask.png" width="32px">
     <img src="./media/weblogic.png" width="32px">
+</div>
 </div>
 
 # My GitHub stats
@@ -61,9 +73,9 @@
 
 <div>
     <a href="https://www.linkedin.com/in/david-israel-garc%C3%ADa-alc%C3%A1zar-4825a554/">
-        <img src="./linkedin.png">
+        <img src="./media/linkedin.png" alt="David's LinkedIn" width="32px">
     </a>
     <a href="https://www.hackerrank.com/idcodeoverflow">
-        <img src="./hackerrank.png">
+        <img src="./media/hackerrank.png" alt="David's HackerRank profile" width="32px">
     </a>
 </div>

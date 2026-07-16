@@ -84,11 +84,14 @@ Earlier in my career, I built administrative and logistics systems, maintained b
 - Earned the **Oracle Certified Java Programmer** credential and completed coursework in AWS, Kubernetes/OpenShift, MongoDB, algorithms, and artificial intelligence.
 - Presented technical talks and organized internal programming contests to make engineering knowledge easier to share.
 
-## GitHub activity
+## GitHub at a glance
 
 <div align="center">
 
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=idcodeoverflow&show_icons=true&theme=transparent&hide_border=true&hide=issues&rank_icon=github)](https://github.com/idcodeoverflow)
+[![GitHub followers](https://img.shields.io/github/followers/idcodeoverflow?style=for-the-badge&logo=github&label=Followers)](https://github.com/idcodeoverflow?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/idcodeoverflow?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars)](https://github.com/idcodeoverflow?tab=repositories&sort=stargazers)
+
+[Explore my repositories →](https://github.com/idcodeoverflow?tab=repositories)
 
 </div>
 

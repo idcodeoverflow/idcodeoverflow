@@ -4,6 +4,8 @@
 
 ### Lead Full-Stack Engineer · Staff-Level Technical Leader
 
+**B.S. in Artificial Intelligence & Computer Science · B.S. in Law Candidate**
+
 I design resilient, accessible software and help distributed engineering teams turn complex requirements into dependable products.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-israel-garc%C3%ADa-alc%C3%A1zar-4825a554/)
@@ -22,7 +24,12 @@ Today, I lead a distributed team of eight engineers at **Cohere Health**, delive
 - 🤝 I lead through architecture guidance, thoughtful code review, delivery planning, and mentorship.
 - ♿ I care about accessible interfaces, observability, resilient workflows, and maintainable systems.
 - 🧠 I use AI-assisted engineering tools pragmatically, with secure review and validation as part of the workflow.
-- ⚖️ Alongside engineering, I'm pursuing a **B.S. in Law**.
+- ⚖️ Alongside engineering, I'm a **B.S. in Law candidate**.
+
+## Education
+
+- **B.S. in Artificial Intelligence and Computer Science** · Autonomous University of Aguascalientes
+- **B.S. in Law candidate** · University of Guanajuato · 2026 to present
 
 ## Selected impact
 
@@ -74,11 +81,15 @@ Today, I lead a distributed team of eight engineers at **Cohere Health**, delive
 - **Senior Full-Stack Engineer / Team Lead · Unosquare** — 2016 to 2022
 - **Senior Software Engineer · UST Global** — 2016
 - **Software Engineer / Technical Lead · INFOTEC** — 2015 to 2016
+- **Junior Software Engineer & Administrative Assistant · Grupo Remex** — 2010 to 2015
 
-Earlier in my career, I built administrative and logistics systems, maintained business-critical infrastructure, and coordinated a small development team. Those years gave me a lasting appreciation for software that makes real work simpler.
+At Grupo Remex, I built administrative, warehouse, fleet-maintenance, invoicing, and logistics tools; maintained business-critical infrastructure and backups; and coordinated a small development team. Those years gave me a lasting appreciation for software that makes real work simpler.
 
 ## Beyond delivery
 
+- At **Cohere Health**, maintained zero P0 incidents across the teams and workflows under my ownership while sustaining approximately **92% cycle-time accuracy** with minimal or no sprint rollover.
+- At **Cohere Health**, defined standards for task management, review workflows, coding practices, AI coding assistants, and log management while collaborating across data, FHIR, business intelligence, clinical intelligence, ML/AI, and implementation teams.
+- At **AnthemIQ**, helped build the delivery credibility that led to a statement of work with **Cushman & Wakefield**, supporting a platform used by thousands of brokers, realtors, and property seekers.
 - Founded and led Unosquare's **Algorithms Guild**, growing it from 3 to 23 members.
 - Competed in **ACM ICPC** and Mexico's **CONACUP** programming contests.
 - Earned the **Oracle Certified Java Programmer** credential and completed coursework in AWS, Kubernetes/OpenShift, MongoDB, algorithms, and artificial intelligence.
